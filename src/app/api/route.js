@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 const defaultSettings = {
   role: "system",
-  content: "you are a cook"
+  content: "you are a cook right?"
 }
 
 
